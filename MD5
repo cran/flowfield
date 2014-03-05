@@ -1,0 +1,17 @@
+7f511a3cdf6457cdca64779a9c563fb8 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+6460cece27aee0b31023cb47c18a002b *R/GCV.R
+d4d2f5e319824539b818e3931efec611 *R/ffplot.R
+698837f92592b2d94c26c74debb88f69 *R/flowfield.R
+32bf4d9fc702bfd276fc16353c14958e *R/forecast.R
+a2bc5002032d2e12e80c95593542aeb8 *R/gpr.R
+3c9d8d961e300b85b5f1011a0e7dadb7 *R/psr.R
+00fdfdf85c3906c0a4c8771cbe1270c8 *R/smoothp.R
+45fbdeb515377ec00d8597364e343cc1 *man/GCV.Rd
+54672ae8b70280070f5311559392e4a9 *man/ffplot.Rd
+410c18e9695ec68cc519eb92b4222407 *man/flowfield-package.Rd
+04bc8cfa38d8e24e82a758e3b8b5a6cc *man/flowfield.Rd
+808b67565e4be39d15ebad3a8c5d194a *man/forecast.Rd
+43143c8c30fffe540859a62352b52e7a *man/gpr.Rd
+7dc30944af88c8e43590937fae0265c2 *man/psr.Rd
+669a1d68a530341f768fae6c0ece6406 *man/smoothp.Rd
